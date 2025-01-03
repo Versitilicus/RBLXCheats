@@ -387,9 +387,9 @@ GodMode.Name = "GodMode"
 GodMode.Parent = Cheat
 GodMode.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 GodMode.Position = UDim2.new(0.30203735, 0, 0.83989507, 0)
-GodMode.Size = UDim2.new(0, 200, 0, 22)
+GodMode.Size = UDim2.new(0, 240, 0, 22)
 GodMode.Font = Enum.Font.SourceSans
-GodMode.Text = "Godmode (USE WHILE FLYING)"
+GodMode.Text = "Godmode (DONT DEACTIVATE PSY ABILITY)"
 GodMode.TextColor3 = Color3.fromRGB(255, 255, 255)
 GodMode.TextSize = 14.000
 GodMode.MouseButton1Down:connect(function()
