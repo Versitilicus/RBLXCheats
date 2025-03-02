@@ -7,4 +7,5 @@ Just some silly little cheats for a lego game I've made, likely isn't the best o
 ## 🔴 = Not working
 # NOTE: JUST BECAUSE AN EXECUTOR SUPPORTS THIS SCRIPT, DOESN'T MEAN IT IS TRUSTWORTHY. ONLY DOWNLOAD EXECUTORS THAT ARE TRUSTED BY GOOD SOURCES.
 🔴 Swift - executor down
+
 🟢 Velocity - supports all necessary functions + currently up
