@@ -9,3 +9,9 @@ Just some silly little cheats for a lego game I've made, likely isn't the best o
 🔴 Swift - executor down
 
 🟡 Velocity - open/close button doesn't work + currently up
+
+# Loadstrings
+ Heres a loadstring version of every script currently available from my repo, for convenience!
+
+## SPTS classic:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Versitilicus/RBLXCheats/refs/heads/main/SPTSclassic.lua",true))()
